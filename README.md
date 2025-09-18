@@ -5,6 +5,8 @@ This project implements a PatchCore-style anomaly detection pipeline for transis
 
 ### 📂 Dataset Composition
 
+[Download Sheet Metal Dataset](https://drive.google.com/file/d/1nBwccjURusxMDT6pibeH2NeBzaVj3wNG/view?usp=drive_link)
+
 - Train set
 
   - train/good — normal samples
