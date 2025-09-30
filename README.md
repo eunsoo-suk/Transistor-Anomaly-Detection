@@ -40,3 +40,5 @@ F1 = 0.880
 Precision = 0.970
 
 Recall = 0.800
+
+<img width="904" height="523" alt="image" src="https://github.com/user-attachments/assets/cc02fa53-aa95-4fd2-871c-ac44c3c795b2" />
